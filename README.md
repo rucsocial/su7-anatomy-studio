@@ -20,6 +20,14 @@ npm run dev -- --port 3015
 
 Open `http://127.0.0.1:3015/`.
 
+### Online preview
+
+Once GitHub Pages is enabled for this repo (branch `gh-pages`), open:
+
+**https://rucsocial.github.io/su7-anatomy-studio/**
+
+No install required — browser only (WebGL).
+
 ## Validation
 
 ```sh
