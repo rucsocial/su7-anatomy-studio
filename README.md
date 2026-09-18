@@ -47,9 +47,9 @@ npm run build:vercel
 **Models are community downloads (CC-BY), not authored from zero.**  
 **UI pattern references Tesla online vehicle documentation** — this repo ships **no** Tesla geometry or trademarks.
 
-## Attribution (required for redistribution / 二创)
+## Attribution (required if you redistribute or adapt this project)
 
-If you fork, demo, or **repost this project** (including official account features), please keep:
+If you fork, demo, or republish this work, please keep:
 
 ### 3D models (CC BY 4.0)
 
@@ -67,7 +67,7 @@ If you fork, demo, or **repost this project** (including official account featur
 
 5. Application code: **MIT** (see [LICENSE](LICENSE)).
 
-### Suggested credit line (二创 / official repost)
+### Suggested credit line
 
 > 3D models: Xiaomi SU7 by Mona x Supercars / GT Cars: Hyperspeed and s1657270997 (Sketchfab, CC BY 4.0). Semantic naming: su7-3d-configurator (MIT). Environment: Poly Haven (CC0). App: MIT. Interactive studio built with MiMo Desktop. Non-official educational demo; UI pattern references Tesla’s vehicle documentation; no Tesla assets included.
 
