@@ -1,0 +1,104 @@
+{
+  "source": "Poly Haven (https://polyhaven.com) — CC0",
+  "license": "CC0 1.0 — https://polyhaven.com/license",
+  "note": "md5 来自 api.polyhaven.com/files/<id>；换资产时必须重新生成本文件。",
+  "generated": "2026-09-13 04:49:59",
+  "files": {
+    "/env/seaside/small_harbor_01_1k.hdr": {
+      "md5": "ebcdb95771e65829f16a3f870b66d3d8",
+      "bytes": 1514171,
+      "role": "hdri/hdr",
+      "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/small_harbor_01_1k.hdr"
+    },
+    "/env/seaside/sand_01_1k_diffuse.jpg": {
+      "md5": "c914c8edb419f040e04224081a3f79a5",
+      "bytes": 485088,
+      "role": "texture/Diffuse",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sand_01/sand_01_diff_1k.jpg"
+    },
+    "/env/seaside/sand_01_1k_nor_gl.jpg": {
+      "md5": "369b82aa417c77ec85c4c07c4c7b60a0",
+      "bytes": 877821,
+      "role": "texture/nor_gl",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sand_01/sand_01_nor_gl_1k.jpg"
+    },
+    "/env/seaside/sand_01_1k_arm.jpg": {
+      "md5": "3ab2b7731c0430662bdc4d12425411a3",
+      "bytes": 131275,
+      "role": "texture/arm",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sand_01/sand_01_arm_1k.jpg"
+    },
+    "/env/forest/rainforest_trail_1k.hdr": {
+      "md5": "ebcbfe5296d5a53c618086d0d4e24135",
+      "bytes": 1956135,
+      "role": "hdri/hdr",
+      "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rainforest_trail_1k.hdr"
+    },
+    "/env/forest/forest_ground_04_1k_diffuse.jpg": {
+      "md5": "6ad9df4d731a238299806f739a26af83",
+      "bytes": 1113899,
+      "role": "texture/Diffuse",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_ground_04/forest_ground_04_diff_1k.jpg"
+    },
+    "/env/forest/forest_ground_04_1k_nor_gl.jpg": {
+      "md5": "a010a0802c2d9a930c6f00d3b1f196d2",
+      "bytes": 1326812,
+      "role": "texture/nor_gl",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_ground_04/forest_ground_04_nor_gl_1k.jpg"
+    },
+    "/env/forest/forest_ground_04_1k_arm.jpg": {
+      "md5": "3fbb079d961f59b8fac7ec4f6dab9f20",
+      "bytes": 882694,
+      "role": "texture/arm",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_ground_04/forest_ground_04_arm_1k.jpg"
+    },
+    "/env/grassland/meadow_2_1k.hdr": {
+      "md5": "7deac04bbf250f12a4daf1afaa6cab5f",
+      "bytes": 1552993,
+      "role": "hdri/hdr",
+      "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/meadow_2_1k.hdr"
+    },
+    "/env/grassland/leafy_grass_1k_diffuse.jpg": {
+      "md5": "0dbc071e91d6905edfcfbe8eb785a1ab",
+      "bytes": 1195394,
+      "role": "texture/Diffuse",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leafy_grass/leafy_grass_diff_1k.jpg"
+    },
+    "/env/grassland/leafy_grass_1k_nor_gl.jpg": {
+      "md5": "8279e096e204ea326d57a318869f99df",
+      "bytes": 1466049,
+      "role": "texture/nor_gl",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leafy_grass/leafy_grass_nor_gl_1k.jpg"
+    },
+    "/env/grassland/leafy_grass_1k_arm.jpg": {
+      "md5": "44fb4e40ef0f3425a7d1a14bc328e4d8",
+      "bytes": 1010081,
+      "role": "texture/arm",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leafy_grass/leafy_grass_arm_1k.jpg"
+    },
+    "/env/urban/canary_wharf_1k.hdr": {
+      "md5": "c18a358c3240b0191c795db56105bf61",
+      "bytes": 1658405,
+      "role": "hdri/hdr",
+      "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/canary_wharf_1k.hdr"
+    },
+    "/env/urban/asphalt_02_1k_diffuse.jpg": {
+      "md5": "fa19772d4817754c3efab708c651f5a8",
+      "bytes": 731707,
+      "role": "texture/Diffuse",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_diff_1k.jpg"
+    },
+    "/env/urban/asphalt_02_1k_nor_gl.jpg": {
+      "md5": "338da8de636ea36133170578cac82e8e",
+      "bytes": 1240122,
+      "role": "texture/nor_gl",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_nor_gl_1k.jpg"
+    },
+    "/env/urban/asphalt_02_1k_arm.jpg": {
+      "md5": "33820445f43af5e5ee484674b6939271",
+      "bytes": 296770,
+      "role": "texture/arm",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_arm_1k.jpg"
+    }
+  }
+}
